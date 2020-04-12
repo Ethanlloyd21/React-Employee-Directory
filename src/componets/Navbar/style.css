@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+}
+
+#top {
+    background-color: #292b2c;
+    color: white;
+    margin: 0;
+}
+
+.my-4 {
+    border-top: 1px solid white;
+}
+
+#helper {
+    font-size: medium;
+    color: #5bc0de;
+}

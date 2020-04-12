@@ -1,0 +1,26 @@
+.column-headers {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid #b8b8b8;
+    align-items: center;
+    padding: 10px;
+    background-color: gray;
+}
+
+.sortable {
+    text-align: center;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.image {
+    width: 10%;
+}
+
+.email {
+    width: 20%;
+}
+
+.data {
+    width: 20%;
+}

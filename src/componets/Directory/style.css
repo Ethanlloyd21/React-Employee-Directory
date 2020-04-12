@@ -1,0 +1,16 @@
+.directory {
+    background-color: #b8b8b8;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+.dir {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
