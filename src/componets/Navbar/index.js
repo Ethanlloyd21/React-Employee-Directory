@@ -11,7 +11,7 @@ function Navbar() {
                 <hr className="my-4"></hr>
                 <p className="lead" id="helper"><i>Click on carrots to filter by heading or use the search box to narrow your results.</i></p>
 
-                <a className="btn btn-primary btn-lg" href="/" role="button">Refresh</a>
+                <a className="btn btn-primary btn-lg" href="https://ethanlloyd21.github.io/React-Employee-Directory/" role="button">Refresh</a>
 
             </div>
         </div>
