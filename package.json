@@ -1,7 +1,7 @@
 {
-  "name": "employee-directory-react",
+  "name": "react-employee-directory",
   "version": "0.1.0",
-  "homepage": "https://ethanlloyd21.github.io/employee-directory-react",
+  "homepage": "https://ethanlloyd21.github.io/React-Employee-Directory",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
