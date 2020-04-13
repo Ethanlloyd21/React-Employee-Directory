@@ -95,7 +95,8 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 - randomuser.me = API to create fake random employee data
 
 # Demo
-Click here to view a <a href="https://drive.google.com/file/d/1DpNywVgTsv-FvtcfkMjL570nDFZcLCim/view"> --> video demo <-- </a>
+- Click here to view a <a href="https://drive.google.com/file/d/1DpNywVgTsv-FvtcfkMjL570nDFZcLCim/view"> --> video demo <-- </a>
+- Click here to deploy the app -----> https://ethanlloyd21.github.io/React-Employee-Directory/ <--------
 # Author
 - Lloyd Marcelino 
 - github: https://github.com/ethanlloyd21
